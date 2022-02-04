@@ -14,8 +14,8 @@
 
 ### ⚙️ Daily drivers
 
-[![Windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows)]
+[![Windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows)
 [![NetBeans](https://img.shields.io/badge/netbeans-black?style=flat-square&logo=netbeans)](https://netbeans.apache.org/download/index.html)
 [![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/)
-[![Todoist](https://img.shields.io/badge/spotify-black?style=flat-square&logo=spotify)](https://www.spotify.com/)
+[![Spotify](https://img.shields.io/badge/spotify-black?style=flat-square&logo=spotify)](https://www.spotify.com/)
