@@ -5,6 +5,9 @@
 
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://www.java.com/)
 [![Ruby](https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby)](https://www.ruby-lang.org/)
+[![Ruby On Rails](https://img.shields.io/badge/rubyonrails-black?style=for-the-badge&logo=rubyonrails)](https://rubyonrails.org/)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://es.reactjs.org/)
+
 
 ### 🔸 Spoken a bit
 
