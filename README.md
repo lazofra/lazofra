@@ -1,4 +1,4 @@
-## Hi there, I am Liam 👋
+## Hi there, I'm Liam 👋
 
 
 ### 🔹 Actively learning
