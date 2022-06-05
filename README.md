@@ -9,12 +9,6 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://es.reactjs.org/)
 
 
-### 🔸 Spoken a bit
-
-[![Visual Basic](https://img.shields.io/badge/VB-black?style=for-the-badge&logo=visualstudio)](https://visualstudio.microsoft.com/es/)
-
-
-
 ### ⚙️ Daily drivers
 
 [![Windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows)](https://microsoft.com/windows)
@@ -22,3 +16,4 @@
 [![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/)
 [![Spotify](https://img.shields.io/badge/spotify-black?style=flat-square&logo=spotify)](https://www.spotify.com/)
+[![Visual Studio Code](https://img.shields.io/badge/code-black?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
