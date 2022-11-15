@@ -15,8 +15,8 @@
 
 [![Windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows)](https://microsoft.com/windows)
 [![NetBeans](https://img.shields.io/badge/netbeans-black?style=flat-square&logo=apachenetbeanside)](https://netbeans.apache.org/download/index.html)
-[![Android Studio](https://img.shields.io/badge/android%20studio-black?style=for-the-badge&logo=androidstudio)](https://developer.android.com/studio)
-[![Visual Studio](https://img.shields.io/badge/android%20studio-black?style=for-the-badge&logo=visualstudio)](https://visualstudio.microsoft.com/es/)
+[![Android Studio](https://img.shields.io/badge/android%20studio-black?style=flat-square&logo=androidstudio)](https://developer.android.com/studio)
+[![Visual Studio](https://img.shields.io/badge/android%20studio-black?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/es/)
 [![Visual Studio Code](https://img.shields.io/badge/code-black?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/)
