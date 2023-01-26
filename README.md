@@ -6,8 +6,8 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![C#](https://img.shields.io/badge/C%20Sharp-black?style=for-the-badge&logo=CSharp)](https://learn.microsoft.com/es-es/dotnet/csharp/)
-[![Ruby](https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby)](https://www.ruby-lang.org/)
-[![Ruby On Rails](https://img.shields.io/badge/rubyonrails-black?style=for-the-badge&logo=rubyonrails)](https://rubyonrails.org/)
+[![Node](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=Node.js)](https://nodejs.org/en/)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://es.reactjs.org/)
 
 
 ### ⚙️ Daily drivers
